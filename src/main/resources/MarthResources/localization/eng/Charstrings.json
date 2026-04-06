@@ -1,0 +1,11 @@
+{
+  "${ModID}:ModdedCharacter": {
+    "NAMES": [
+      "Marth",
+      "Fire Emblem"
+    ],
+    "TEXT": [
+      "A Prince from a far away land, wielding the almighty Falchion."
+    ]
+  }
+}

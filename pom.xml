@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>UnimportantInfo</groupId>
 
-    <artifactId>TheTodo</artifactId>
+    <artifactId>MarthMod</artifactId>
     <version>0.0.1</version>
-    <name>The Todo</name>
-    <description>TODO: Change this description</description>
+    <name>Marth</name>
+    <description>Marth from Fire Emblem</description>
     <!-- Change the above for mod information. -->
 
     <properties>
@@ -17,11 +17,12 @@
         <ModTheSpire.version>3.18.2</ModTheSpire.version>
 
         <!-- CHANGE THIS TO MATCH YOUR MODID FIELD IN THE MAIN TodoMod CLASS FILE -->
-        <ModID>todomod</ModID>
+        <ModID>Marth</ModID>
         <!-- CHANGE THIS TO MATCH YOUR MODID FIELD IN THE MAIN TodoMod CLASS FILE -->
 
         <!--CHANGE THIS TO YOUR STEAM INSTALLATION-->
-        <Steam.path>C:/Program Files (x86)/Steam/steamapps/</Steam.path>
+        <!-- <Steam.path>C:/Program Files (x86)/Steam/steamapps/</Steam.path> -->
+        <Steam.path>/Users/rodneyvandenberg/Library/Application Support/Steam/steamapps</Steam.path>
 
     </properties>
 
